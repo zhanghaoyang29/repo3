@@ -1,3 +1,10 @@
 1111111111111111
 2222222222222222
 3333333333333333
+
+
+git init 新建本地仓库
+git add README.md 像本地仓库添加文件
+git commit -m "first commit" 提交
+git remote add origin https://github.com/zhanghaoyang29/test.git 本地仓库与远程建立连接
+git push -u origin master 把本地推送到远程
